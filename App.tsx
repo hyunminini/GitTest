@@ -79,7 +79,7 @@ function App(): JSX.Element {
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits. TESTzz ff HELLOW
-            안녕하세요 ㅋㅋ
+            안녕하세요 ㅋㅋ 테스트입니다
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
