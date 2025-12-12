@@ -89,7 +89,7 @@ function App(): JSX.Element {
           </Section>
           <Section title="Learn More">
             Read the docs to discover what to do next: dasdsadada test ㅋㅋ
-            falsezz 오프 zz
+            falsezz 오프 zz ㄴㄴ
           </Section>
           <LearnMoreLinks />
         </View>
